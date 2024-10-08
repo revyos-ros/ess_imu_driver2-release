@@ -1,0 +1,20 @@
+ros-humble-ess-imu-driver2 (2.0.1-1bookworm) bookworm; urgency=high
+
+  * Update CMakeLists.txt - set macro PLATFORM to NONE
+
+ -- Raymond Chow <raymond.chow@ea.epson.com>  Mon, 30 Sep 2024 16:00:00 -0000
+
+ros-humble-ess-imu-driver2 (2.0.0-1bookworm) bookworm; urgency=high
+
+  * port changes from imu_linux_example, remove V340 support
+  * auto-detect/initialize IMU model at runtime
+
+ -- Raymond Chow <raymond.chow@ea.epson.com>  Mon, 30 Sep 2024 16:00:00 -0000
+
+ros-humble-ess-imu-driver2 (1.0.0-1bookworm) bookworm; urgency=high
+
+  * full package supporting UART and SPI
+
+ -- Raymond Chow <raymond.chow@ea.epson.com>  Tue, 28 Nov 2023 16:00:00 -0000
+
+
