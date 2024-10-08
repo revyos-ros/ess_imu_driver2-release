@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/ess_imu_driver2-release.git
 tracks:
   humble:
     actions:
