@@ -1,3 +1,26 @@
+## ess_imu_driver2 (jazzy) - 2.0.3-2
+
+The packages in the `ess_imu_driver2` repository were released into the `jazzy` distro by running `/tmp/venv/bin/bloom-release -r jazzy ess_imu_driver2 --override-release-repository-push-url git@github.com:revyos-ros/ess_imu_driver2-release.git` on `Thu, 19 Dec 2024 01:44:29 -0000`
+
+The `ess_imu_driver2` package was released.
+
+Version of package(s) in repository `ess_imu_driver2`:
+
+- upstream repository: https://github.com/cubicleguy/ess_imu_driver2.git
+- release repository: https://github.com/revyos-ros/ess_imu_driver2-release.git
+- rosdistro version: `2.0.3-1`
+- old version: `2.0.3-1`
+- new version: `2.0.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ess_imu_driver2 (humble) - 2.0.1-1
 
 The packages in the `ess_imu_driver2` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble ess_imu_driver2 --override-release-repository-push-url git@github.com:revyos-ros/ess_imu_driver2-release.git` on `Tue, 08 Oct 2024 06:30:28 -0000`
